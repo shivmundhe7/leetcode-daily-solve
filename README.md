@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shivmundhe7/leetcode-daily-solve/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shivmundhe7/leetcode-daily-solve/tree/master/0012-integer-to-roman) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivmundhe7/leetcode-daily-solve/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
