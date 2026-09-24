@@ -5,7 +5,6 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             int reversePosition = 'z' - s.charAt(i) + 1;
             int index = i + 1;
-
             sum += reversePosition * index;
         }
 
